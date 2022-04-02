@@ -1,5 +1,5 @@
 # UnrotaTETRIS
-A unrotatable tetris game build with RAYLIB\n
+A unrotatable tetris game build with RAYLIB
 (My first ever c++ project)
 
 Control:
