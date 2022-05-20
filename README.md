@@ -1,4 +1,5 @@
-# UnrotaTETRIS
+# UnrotaTETRIS (Given Up Project)
+
 A unrotatable tetris game build with RAYLIB
 (My first ever c++ project)
 
